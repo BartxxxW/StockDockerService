@@ -1,0 +1,6 @@
+# Ignore bin and obj folders
+StockAPI/bin/
+StockAPI/obj/
+.vs/
+bin/
+obj/
